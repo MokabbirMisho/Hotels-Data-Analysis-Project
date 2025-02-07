@@ -34,11 +34,11 @@ We are using five datasets for this project:
 
 ### Key Findings:
 
-    - Identification of different booking platforms and their popularity.
+  - Identification of different booking platforms and their popularity.
     
-    - Variability in hotel categories and room types.
+  - Variability in hotel categories and room types.
     
-    - Hotel distribution across various cities.
+  - Hotel distribution across various cities.
 
 ## 2. Data Cleaning
 
