@@ -24,13 +24,13 @@ We are using five datasets for this project:
 
   We start by loading the datasets and performing an initial exploration:
 
-    - Checking dataset structures and dimensions.
+  - Checking dataset structures and dimensions.
     
-    - Exploring unique values in key categorical variables such as room_category and booking_platform.
+  - Exploring unique values in key categorical variables such as room_category and booking_platform.
     
-    - Analyzing distribution and trends in booking platforms using visualizations.
+  - Analyzing distribution and trends in booking platforms using visualizations.
     
-    - Understanding hotel distributions across different cities.
+  - Understanding hotel distributions across different cities.
 
 ### Key Findings:
 
